@@ -1,3 +1,6 @@
+Dashboard Screenshots:
+src="https://github.com/user-attachments/assets/4acda7c9-60c5-47d5-9a8d-f69bf2936b63"
+
 💓 Heart Disease Prediction App
 
 A simple and interactive Machine Learning web application built using Streamlit that predicts whether a person is likely to have heart disease based on medical parameters.
